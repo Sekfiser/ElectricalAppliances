@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab1._1.Microwave">
+    <Position X="6" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Microwave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1._1.Lamp">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lamp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1._1.Fridge">
+    <Position X="4.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Fridge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1._1.ElectricalAppliance">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAUAAAAAAQAAQAAAAAAUEAAAABAAAA=</HashCode>
+      <FileName>ElectricalAppliance.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab1._1.Computer">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Computer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1._1.ApplianceEnumerator">
+    <Position X="1.25" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAABAAEAACQIAAAAAAKAQAAoAAAAAAAAAA=</HashCode>
+      <FileName>ApplianceEnumerator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Lab1._1.IElectricalAppliance">
+    <Position X="1.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAQAAAAAAQAAQAAAAAAUEAAAABAAAA=</HashCode>
+      <FileName>IElectricalAppliance.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
